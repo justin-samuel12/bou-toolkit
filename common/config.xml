@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Author name ="Justin Samuel"/>
+  <GithubProjectUri name ="https://github.com/justin-samuel12/dbadevopstoolkit"/>
+  <Version number="1.0"/>
+  <DigitalSigning key="57f2a2d24805af7ab540787ca72c2dd4e36d0d131cc24ed411c6eb2b1396fe35" value="76492d1116743f0423413b16050a5345MgB8AGoAWgBlAGsALwBmAE4AUAA5AEkANABKAEEASQA4AFAAWQBSAGcAeQB4AEEAPQA9AHwANwBhAGUAZQAzAGQANgAzAGEAMQAwADEAYwAxADMANwA3ADIAMAAzAGEAMwBkADkAYgBhADkAMAAyADIAMAAwADUAMABhAGIAYQA4ADIAYgBiADIAOAAyADMANwA4AGUAZABhADUAOQA4ADAAZgBhADEAMgA0AGIANQAxADkAYgA0ADAANgAzADcAOAA1ADgAYQBlADgAMABmAGIANAA2ADgAMgBiAGIAZgA4AGIANgAxAGUAOAA2AGMAMQBlAGIA" />
+  <Manifest>
+    <PowershellMinVer number ="4.0"/>
+    <Description value="Bunch of powershell utils" />
+  </Manifest>  
+</Root>
+
